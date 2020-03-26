@@ -9,6 +9,7 @@ Last Edited Time: Mar 26, 2020 10:01 AM
 2. Read about Regular Expressions - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 3. Finish form validation:
 
+```
     // 1. Submit the form, only if it is valid
     //    email is between 5 and 50 chars long
     //    email format is correct
@@ -49,3 +50,4 @@ Last Edited Time: Mar 26, 2020 10:01 AM
     
       return false;
     }
+```
